@@ -1,4 +1,4 @@
-# UART TX/RX
+# UART
 
 A parameterized 8N1 UART transceiver in Verilog with a `16x` oversampling receiver and baud rate generator. I built this as my starting point into serial communication protocols.
 
